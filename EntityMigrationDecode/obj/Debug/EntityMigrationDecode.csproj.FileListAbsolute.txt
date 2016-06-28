@@ -1,0 +1,9 @@
+c:\users\evan\documents\visual studio 2015\Projects\EntityMigrationDecode\EntityMigrationDecode\bin\Debug\EntityMigrationDecode.exe.config
+c:\users\evan\documents\visual studio 2015\Projects\EntityMigrationDecode\EntityMigrationDecode\bin\Debug\EntityMigrationDecode.exe
+c:\users\evan\documents\visual studio 2015\Projects\EntityMigrationDecode\EntityMigrationDecode\bin\Debug\EntityMigrationDecode.pdb
+c:\users\evan\documents\visual studio 2015\Projects\EntityMigrationDecode\EntityMigrationDecode\obj\Debug\EntityMigrationDecode.csprojResolveAssemblyReference.cache
+c:\users\evan\documents\visual studio 2015\Projects\EntityMigrationDecode\EntityMigrationDecode\obj\Debug\EntityMigrationDecode.Form1.resources
+c:\users\evan\documents\visual studio 2015\Projects\EntityMigrationDecode\EntityMigrationDecode\obj\Debug\EntityMigrationDecode.Properties.Resources.resources
+c:\users\evan\documents\visual studio 2015\Projects\EntityMigrationDecode\EntityMigrationDecode\obj\Debug\EntityMigrationDecode.csproj.GenerateResource.Cache
+c:\users\evan\documents\visual studio 2015\Projects\EntityMigrationDecode\EntityMigrationDecode\obj\Debug\EntityMigrationDecode.exe
+c:\users\evan\documents\visual studio 2015\Projects\EntityMigrationDecode\EntityMigrationDecode\obj\Debug\EntityMigrationDecode.pdb

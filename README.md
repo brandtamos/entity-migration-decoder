@@ -17,3 +17,5 @@ select cast('' as xml).value('xs:base64Binary(sql:variable("@binaryContent"))',
 'varchar(max)') as base64Content
 ```
 Note that you may need to export the result to a csv, as a result that is too long will get cut off in SQL Management Studio.
+
+This solution was adapted into a windows forms app using the code from this blog post: http://www.tecsupra.com/how-to-decode-the-model-column-of-the-migrationhistory-table-in-ef-migrations/

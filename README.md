@@ -8,11 +8,13 @@ Below is a useful SQL query for pulling the data out of your DB:
 
 declare @binaryContent varbinary(max);
 
+'''sql
 select @binaryContent = Model
 from [dbo].[__MigrationHistory]
 where migrationId = 'MIGRATION_ID_HERE'
 
 select cast('' as xml).value('xs:base64Binary(sql:variable("@binaryContent"))',
 'varchar(max)') as base64Content
+'''
 
 Note that you may need to export the result to a csv, as a result that is too long will get cut off in SQL Management Studio.
